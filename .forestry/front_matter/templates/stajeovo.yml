@@ -1,0 +1,10 @@
+---
+label: Štajeovo
+hide_body: false
+fields:
+- name: stajeovo
+  type: text
+  config:
+    required: false
+  label: Šta je ovo
+  description: "<strong>Proba</strong>"
